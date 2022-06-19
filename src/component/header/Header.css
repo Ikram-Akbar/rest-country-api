@@ -1,0 +1,17 @@
+h1 {
+    display: inline-block;
+    color: #680627;
+    border: 1px solid #2196f3;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 300;
+    text-transform: uppercase;
+
+}
+h1:hover{
+   
+    background-color: rgb(38, 41, 41);
+    color: aliceblue;
+    transition: 2s all ease-in-out ;
+}
